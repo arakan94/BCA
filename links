@@ -1,3 +1,7 @@
+/etc/hosts:
+147.229.8.178 rhevm.rhlab.fit.vutbr.cz
+147.229.8.179 server.rhlab.fit.vutbr.cz
+
 rhevm.rhlab.fit.vutbr.cz (v options vložit veřejný klíč PC pro povolení přístupu ke konzoli)
 
 konzole:
@@ -7,3 +11,5 @@ ssh -t -p 2222 ovirt-vmconsole@rhevm.rhlab.fit.vutbr.cz
 
 http://fit-rhlab.rhcloud.com/
 https://www.vutbr.cz/cvis/software/kancelarske-programy/redhat
+https://server.rhlab.fit.vutbr.cz/ipa/ui/
+http://server.rhlab.fit.vutbr.cz/intro.html

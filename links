@@ -1,0 +1,5 @@
+rhevm.rhlab.fit.vutbr.cz (v options vložit veřejný klíč PC pro povolení přístupu ke konzoli)
+
+konzole:
+ssh -t -p 2222 ovirt-vmconsole@rhevm.rhlab.fit.vutbr.cz
+

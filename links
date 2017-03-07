@@ -3,3 +3,7 @@ rhevm.rhlab.fit.vutbr.cz (v options vložit veřejný klíč PC pro povolení p�
 konzole:
 ssh -t -p 2222 ovirt-vmconsole@rhevm.rhlab.fit.vutbr.cz
 
+
+
+http://fit-rhlab.rhcloud.com/
+https://www.vutbr.cz/cvis/software/kancelarske-programy/redhat
